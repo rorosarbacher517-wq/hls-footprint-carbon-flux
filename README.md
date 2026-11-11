@@ -18,7 +18,6 @@ python -m pip install -r requirements.txt
 python examples/generate_example.py
 python examples/validate_example.py
 python training/verify.py
-python training/test_batching.py
 ```
 
 The generated arrays illustrate interfaces only. They do not reproduce paper results and must not be substituted for the frozen research dataset in training audits.
@@ -27,6 +26,7 @@ The generated arrays illustrate interfaces only. They do not reproduce paper res
 
 ```bash
 python -m pip install -r requirements-training.txt
+python training/test_batching.py
 python training/run.py --model FAT --fold 0 --input-root ./data/input_data
 ```
 

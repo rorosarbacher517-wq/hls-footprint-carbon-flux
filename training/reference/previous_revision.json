@@ -1,0 +1,5 @@
+{
+  "path": "source/FOUR_MODEL_MINIMAL_FAIR_20260929",
+  "new_revision": "strict_corrected_v3_halfhourly_ffp",
+  "reason": "Authorized correction: Uniform footprint geometry is now computed independently for each 30-minute timestep; final metric Bias sign is standardized."
+}

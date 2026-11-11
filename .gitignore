@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.h5
+*.hdf5
+*.tif
+*.zip
+data/
+**/outputs/
+**/results*/
+examples/generated/

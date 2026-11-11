@@ -1,0 +1,194 @@
+{
+  "FAT/Model_build.py": {
+    "source": "source/Model_build.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "FAT/Model_build_fairfix.py": {
+    "source": "source/Model_build_fairfix.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "FAT/Model_history.py": {
+    "source": "source/Model_history.py",
+    "sha256": "06f7124e4bffcbd663765f77f581f040e279e4aa05892c7a690edc38c61e74a5"
+  },
+  "FAT/model_heads_ffp.py": {
+    "source": "source/model_heads_ffp.py",
+    "sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  "FAT/myloss.py": {
+    "source": "source/myloss.py",
+    "sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  "FAT/train_test.py": {
+    "source": "source/train_test.py",
+    "sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  "FAT/MaskedAveragePooling2D.py": {
+    "source": "source/MaskedAveragePooling2D.py",
+    "sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  "FAT/RadialConv2D.py": {
+    "source": "source/RadialConv2D.py",
+    "sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  "FAT/Evaluate_DL.py": {
+    "source": "source/Evaluate_DL.py",
+    "sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  "FAT/Evaluate_DL_RF.py": {
+    "source": "source/Evaluate_DL_RF.py",
+    "sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  "FAT/cvfold_utils.py": {
+    "source": "source/cvfold_utils.py",
+    "sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  "FAT/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py": {
+    "source": "source/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py",
+    "sha256": "4978deda0bab8bb31177e6cb274a872caf60566c915d789ed0401fd0648239d7"
+  },
+  "Uniform_Transformer/Model_build.py": {
+    "source": "source/Model_build.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "Uniform_Transformer/Model_build_fairfix.py": {
+    "source": "source/Model_build_fairfix.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "Uniform_Transformer/Model_history.py": {
+    "source": "source/Model_history.py",
+    "sha256": "06f7124e4bffcbd663765f77f581f040e279e4aa05892c7a690edc38c61e74a5"
+  },
+  "Uniform_Transformer/model_heads_ffp.py": {
+    "source": "source/model_heads_ffp.py",
+    "sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  "Uniform_Transformer/myloss.py": {
+    "source": "source/myloss.py",
+    "sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  "Uniform_Transformer/train_test.py": {
+    "source": "source/train_test.py",
+    "sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  "Uniform_Transformer/MaskedAveragePooling2D.py": {
+    "source": "source/MaskedAveragePooling2D.py",
+    "sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  "Uniform_Transformer/RadialConv2D.py": {
+    "source": "source/RadialConv2D.py",
+    "sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  "Uniform_Transformer/Evaluate_DL.py": {
+    "source": "source/Evaluate_DL.py",
+    "sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  "Uniform_Transformer/Evaluate_DL_RF.py": {
+    "source": "source/Evaluate_DL_RF.py",
+    "sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  "Uniform_Transformer/cvfold_utils.py": {
+    "source": "source/cvfold_utils.py",
+    "sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  "Uniform_Transformer/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py": {
+    "source": "source/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py",
+    "sha256": "4978deda0bab8bb31177e6cb274a872caf60566c915d789ed0401fd0648239d7"
+  },
+  "RF/Model_build.py": {
+    "source": "source/Model_build.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "RF/Model_build_fairfix.py": {
+    "source": "source/Model_build_fairfix.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "RF/Model_history.py": {
+    "source": "source/Model_history.py",
+    "sha256": "06f7124e4bffcbd663765f77f581f040e279e4aa05892c7a690edc38c61e74a5"
+  },
+  "RF/model_heads_ffp.py": {
+    "source": "source/model_heads_ffp.py",
+    "sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  "RF/myloss.py": {
+    "source": "source/myloss.py",
+    "sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  "RF/train_test.py": {
+    "source": "source/train_test.py",
+    "sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  "RF/MaskedAveragePooling2D.py": {
+    "source": "source/MaskedAveragePooling2D.py",
+    "sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  "RF/RadialConv2D.py": {
+    "source": "source/RadialConv2D.py",
+    "sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  "RF/Evaluate_DL.py": {
+    "source": "source/Evaluate_DL.py",
+    "sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  "RF/Evaluate_DL_RF.py": {
+    "source": "source/Evaluate_DL_RF.py",
+    "sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  "RF/cvfold_utils.py": {
+    "source": "source/cvfold_utils.py",
+    "sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  "RF/Pro_RF_HLS_carbon_auto_merge3_stable_pred_layout_fixed_fairfix_remove_selected_sites.py": {
+    "source": "source/Pro_RF_HLS_carbon_auto_merge3_stable_pred_layout_fixed_fairfix_remove_selected_sites.py",
+    "sha256": "419d4c87bafb79be97b67f78b656cd6b3bbcd1c0f8053096919425194c48b104"
+  },
+  "Preaggregation_Transformer/Model_build_fairfix.py": {
+    "source": "source/Model_build_fairfix.py",
+    "sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  "Preaggregation_Transformer/Model_build_preagg_fairfix.py": {
+    "source": "source/Model_build_preagg_fairfix.py",
+    "sha256": "09cd570b2d17595064e9b51eccedad4b0fd7ab6040ef4961b3b6dbe13d754e32"
+  },
+  "Preaggregation_Transformer/Model_history_preagg.py": {
+    "source": "source/Model_history_preagg.py",
+    "sha256": "2c0e725701c2f71830c574891cc639be653905b63f969b2b50c68af1fa2dbcf4"
+  },
+  "Preaggregation_Transformer/model_heads_ffp.py": {
+    "source": "source/model_heads_ffp.py",
+    "sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  "Preaggregation_Transformer/myloss.py": {
+    "source": "source/myloss.py",
+    "sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  "Preaggregation_Transformer/train_test.py": {
+    "source": "source/train_test.py",
+    "sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  "Preaggregation_Transformer/MaskedAveragePooling2D.py": {
+    "source": "source/MaskedAveragePooling2D.py",
+    "sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  "Preaggregation_Transformer/RadialConv2D.py": {
+    "source": "source/RadialConv2D.py",
+    "sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  "Preaggregation_Transformer/Evaluate_DL.py": {
+    "source": "source/Evaluate_DL.py",
+    "sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  "Preaggregation_Transformer/preagg_ffp.py": {
+    "source": "source/preagg_ffp.py",
+    "sha256": "911a4ca9b278e2cb80a464fe8e848ba4045c80577a853f67fd5466dbf0e56e14"
+  },
+  "Preaggregation_Transformer/flux_preprocess_lowmem.py": {
+    "source": "source/flux_preprocess_lowmem.py",
+    "sha256": "b283a587a421027544373295f64c6c1677ef4913b0c710dadaf6ff7c1156161b"
+  },
+  "Preaggregation_Transformer/Pro_FAT_HLS_carbon_CV5_preagg_strict.py": {
+    "source": "source/Pro_FAT_HLS_carbon_CV5_preagg_strict.py",
+    "sha256": "ef5ffc0bc9793cfdeb1c4f666061310528538f7c8fbedc0eab7711c5f0de467b"
+  }
+}

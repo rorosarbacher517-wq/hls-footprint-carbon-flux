@@ -1,0 +1,4 @@
+-r requirements.txt
+tensorflow==2.15.1
+keras==2.15.0
+h5py>=3.8

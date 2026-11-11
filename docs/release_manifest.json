@@ -1,0 +1,907 @@
+[
+  {
+    "path": "training/audit_completed_results.py",
+    "source_sha256": "c5df1ed6d77696da8787ee060ac798c702bd8741a07c8e5e4fc022ab565b58bd",
+    "release_sha256": "749711f17c115ff2eb0fa416c1ac7abf436902e7774f83126743bb72dd0363cf"
+  },
+  {
+    "path": "training/audit_data.py",
+    "source_sha256": "80fd1f3b25281ea89f0542e7ab6c60987fd9e6f0b60e36adc97b666e0357a4ba",
+    "release_sha256": "3fe624130968c2d15db2b4b0996d3d7056e6c0ec6ffd12c75fb4a705ce8c010f"
+  },
+  {
+    "path": "training/audit_height_uniform.py",
+    "source_sha256": "3f9fa0545daac7577a1fdf1d103f25c497130563481ee1a0d07a8368668e32eb",
+    "release_sha256": "10c15d812dfda46303701e1e7b16c3018091110565cf5cccff5b7db1dd85b3fb"
+  },
+  {
+    "path": "training/audit_semantics.py",
+    "source_sha256": "dd2692aa2a94ad0539edfa02a4b6be7293a299bc2567f55447987663b8dd2e4b",
+    "release_sha256": "f196db7301ae69a0d94539404f02e0c2d0add06c60b77312fdd2b7c0ca289656"
+  },
+  {
+    "path": "training/batching.py",
+    "source_sha256": "45591e9bc293bfe73460513fdec9a76b13caf3486b7e7b309be19d331c02448c",
+    "release_sha256": "ddbd3527cbf6e563ec42d878a2d2697a334dc3aef05d6437c7f4e8889e41a5bb"
+  },
+  {
+    "path": "training/config.json",
+    "source_sha256": "e2a3c05d5e4d915479f162393f4d742322a1761ef0f0787f9adcde06bb624d45",
+    "release_sha256": "7a98e903e2ae573d5b5082350a6b0ed00b6001568f0957d4661ca8cbcc0467f3"
+  },
+  {
+    "path": "training/distributed_runtime.py",
+    "source_sha256": "2283deb981add6b0f812dad55c2a048c729045ebbe96cc71fbe61bbf14af6e6e",
+    "release_sha256": "782002de4ca0a52f38dcc1ab54d9d483fff8d37b3073e33ef9bad0e2fcfc79fc"
+  },
+  {
+    "path": "training/fair_interfaces.py",
+    "source_sha256": "053bac96c5c736baabc5fb7420b06e250aa92fc984fb49760eb2597e9159c55a",
+    "release_sha256": "fd3546d6eefae49067b2a5bc422b04c43207be848c99d466022b53834289fe6a"
+  },
+  {
+    "path": "training/height_uniform.py",
+    "source_sha256": "eb0bf852eb6e98d3b8028d50ef2310279c5ac3440aa186802136fac3dbe73f9e",
+    "release_sha256": "61f9bcec45f6edc0f8afc1c7a281960d3e3e85f8cef68e6a739f3925460a818f"
+  },
+  {
+    "path": "training/numpy_pickle_compat.py",
+    "source_sha256": "afb26c70a3067159b775ddfc6fd29fcd52f4d9dd88efd66175e1a9e57bf6862b",
+    "release_sha256": "a72f5d4abbb210dfcc0a0e0e2e10769b7f3f16c38c64bd96fcf432c51cc12f29"
+  },
+  {
+    "path": "training/result_contract.py",
+    "source_sha256": "c2fa15b75f8ba58e92e2893eb8014ec267217046e25d823a5b657da9d5a75e4c",
+    "release_sha256": "93e5de9f6ab3849e8d01f222cffa1fe532c74382ec2a3c96430f781d01cb0be3"
+  },
+  {
+    "path": "training/run.py",
+    "source_sha256": "73da2c3e3b7a3c36d839dad2a0044399f883c3448419f44bdd11513b1560ec5e",
+    "release_sha256": "4980582fe7f3f2029cb8bab7e5f789ecaeaa2760a3da603dc1619871e1afe563"
+  },
+  {
+    "path": "training/target_smoke.py",
+    "source_sha256": "bc0263e11d6f1a79839be874fb205631bd28191dedc658bef09aa85ce38f7940",
+    "release_sha256": "51fda97131e86a4fbd0d34a9d8af02be04f317701c75fe3c7da1cdb445aaf767"
+  },
+  {
+    "path": "training/test_batching.py",
+    "source_sha256": "9efeb9ce81f910859eaf7dab9caeecd7cb88772b10e82b66f66ad43a04629f9b",
+    "release_sha256": "1c8496d196e66dc397c8485431b3618411c594344dff122f5ee2da6c0c67ec0a"
+  },
+  {
+    "path": "training/test_distributed_reduction.py",
+    "source_sha256": "db85c5070ab00ddd51149499f2b1dc167218c8624ee68adad9f68517c7714feb",
+    "release_sha256": "9e39945c6c3275529a0b367465c8aed10445c10161e92050410653aadbc43e08"
+  },
+  {
+    "path": "training/test_full_forward.py",
+    "source_sha256": "1881eb94346c1b4cdee4d37198ecf3300a3e9c60a79742152e3f471aa5b70446",
+    "release_sha256": "65bc0272a8a12b0f7e5edcf1e52d29ba53d5f618bbd805ebde8115cc8be8fc03"
+  },
+  {
+    "path": "training/test_input_domain.py",
+    "source_sha256": "2e36154548b85c40df633271330c6eec1a1ec59bc58dc9d1ff1419e5d2829823",
+    "release_sha256": "4028472cea7c296279c2927214e5c82a92cc23bbd5dddcf07fc9234bdfa73204"
+  },
+  {
+    "path": "training/test_interfaces.py",
+    "source_sha256": "c735d4737c27905ccfa19634c1337b175f4094329dd7e8d3c6da13bb95637031",
+    "release_sha256": "6eadde7d558fa29da70022d8077465e44521a16463616aedc6e4e7a8a70541da"
+  },
+  {
+    "path": "training/test_loss_gradients.py",
+    "source_sha256": "18abe396cba202c6d8b2bb1ce13fc62ec51cd6cc7577b5b2bd1d01d382f297b2",
+    "release_sha256": "7d685b99ed3b903da72338d5fd116dc9ce7947ba85cd537386fc67eb4cb2fce0"
+  },
+  {
+    "path": "training/test_real_interfaces.py",
+    "source_sha256": "860a23cf146f78d144a7c53a80adf806eb5f6c7183dc8593fba97fa6faef267f",
+    "release_sha256": "104df640e5a76bb9bc24a73d1ba6aa07648a8d07f5fa646883c925cdbf88eb6f"
+  },
+  {
+    "path": "training/test_sensor_semantics.py",
+    "source_sha256": "3525f81a954dcaf7f1c0b81f8b6c21b2b60bf8c419eafa9430dcefc775c9e956",
+    "release_sha256": "239d86db80deecc0735d9a57af5a09901f518adfb9aabf459cd32cbb096377f7"
+  },
+  {
+    "path": "training/verify.py",
+    "source_sha256": "7c49c4fc14744b2e155d1db15180c58e73cec8286779f6618bd4234383a06b9a",
+    "release_sha256": "aa9beb56a0ea9d8e52161fe5d3a6a6186259d059470ece8f02fe1cafa6e45260"
+  },
+  {
+    "path": "training/FAT/cvfold_utils.py",
+    "source_sha256": "c769135d16323f3eda9032bb15f80f1e7f18bb46f0f5e7f0b16874b564dab2da",
+    "release_sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  {
+    "path": "training/FAT/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/FAT/Evaluate_DL_RF.py",
+    "source_sha256": "f556fb04cb28e6961d278bcaef5271e89ba021542862d5eff93c6ab95bcea130",
+    "release_sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  {
+    "path": "training/FAT/MaskedAveragePooling2D.py",
+    "source_sha256": "7c3e93c4401457a2764ab74057b7dfd99d02e283e592a346fd9554d8f7ca9d55",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/FAT/Model_build.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/FAT/Model_build_fairfix.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/FAT/model_heads_ffp.py",
+    "source_sha256": "14b7528b691893c63afdf21692e7c0422d8f5958d2ded6c620d2ac1566cb60b9",
+    "release_sha256": "7ec1e6893ba4a79a688b717713e779ecc813caafcc2d33d9fdd52df098b58182"
+  },
+  {
+    "path": "training/FAT/Model_history.py",
+    "source_sha256": "26dc3d78c752f77e42bc1a545abb95e9eccaa0ed95f1fe958dadc43fea1d1108",
+    "release_sha256": "6028ae1c6ae0481cd32da32ddd2230e60d827d59f5fa08ecda4b7501bafd687b"
+  },
+  {
+    "path": "training/FAT/myloss.py",
+    "source_sha256": "b22cc39af49390308782c4480dc008e2b9224150f050b6b491571b67a62da661",
+    "release_sha256": "25ab594433f9b3e30a7ac7119737c92259ff0aec3defb40bab0942c3b2e3d09d"
+  },
+  {
+    "path": "training/FAT/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py",
+    "source_sha256": "def14762252bc14184aea8a7e1657ca73ac284f45eab068934fbe1b949dbd7cf",
+    "release_sha256": "73857461aa0066e724bcfffb5e8b923dedd4764155b33f0e4965a7cecddf8f39"
+  },
+  {
+    "path": "training/FAT/RadialConv2D.py",
+    "source_sha256": "3876c2a1193756a83638ae9d9867824f966ad8838259fae6d8c324dc93a4b9d9",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/FAT/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/flux_preprocess_lowmem.py",
+    "source_sha256": "2e3d2a4e599713a83c6838fd3e69d42ee9c2d6d1cbe93d0c519a7423453173e5",
+    "release_sha256": "b283a587a421027544373295f64c6c1677ef4913b0c710dadaf6ff7c1156161b"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/MaskedAveragePooling2D.py",
+    "source_sha256": "7c3e93c4401457a2764ab74057b7dfd99d02e283e592a346fd9554d8f7ca9d55",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/Model_build_fairfix.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/Model_build_preagg_fairfix.py",
+    "source_sha256": "ee78d3173c195f75f51a2d9e36bfd273c1d3830ecf7ecfb43fbbdd0b74fc0ef0",
+    "release_sha256": "e59c6a1c0ec11c7c1746a5ac996c377e900125f195d61595c98959dc1e7d123c"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/model_heads_ffp.py",
+    "source_sha256": "14b7528b691893c63afdf21692e7c0422d8f5958d2ded6c620d2ac1566cb60b9",
+    "release_sha256": "7ec1e6893ba4a79a688b717713e779ecc813caafcc2d33d9fdd52df098b58182"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/Model_history_preagg.py",
+    "source_sha256": "1ad4a7b61b88e13d1f25e043de1aac747fe9bfb1227adf88f3f59f661e28eeec",
+    "release_sha256": "c18219b81cb5c7d561433992a614a3a342cf948c30a2b214cbc051c1553786ae"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/myloss.py",
+    "source_sha256": "b22cc39af49390308782c4480dc008e2b9224150f050b6b491571b67a62da661",
+    "release_sha256": "25ab594433f9b3e30a7ac7119737c92259ff0aec3defb40bab0942c3b2e3d09d"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/preagg_ffp.py",
+    "source_sha256": "d13cb7b8f2a86c9b019d29456c0b569523bafb95dbfe35ec4eadeafc4b30242d",
+    "release_sha256": "911a4ca9b278e2cb80a464fe8e848ba4045c80577a853f67fd5466dbf0e56e14"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/Pro_FAT_HLS_carbon_CV5_preagg_strict.py",
+    "source_sha256": "a051aa00a6dfc6cbb30aa746e8acebbbe49b10018f27c132836de8bb47966e27",
+    "release_sha256": "bfd3899e5290cc7358a692a2a9b744c84fc3e8f53a9a852087299750afe8df7a"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/RadialConv2D.py",
+    "source_sha256": "3876c2a1193756a83638ae9d9867824f966ad8838259fae6d8c324dc93a4b9d9",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/Preaggregation_Transformer/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/reference/fold0_effective_indices.npz",
+    "source_sha256": "3ddf07db1111053af6f3314eb7736a3dcb39d1e658b6d4f65d6a30a1f54ee40c",
+    "release_sha256": "3ddf07db1111053af6f3314eb7736a3dcb39d1e658b6d4f65d6a30a1f54ee40c"
+  },
+  {
+    "path": "training/reference/fold1_effective_indices.npz",
+    "source_sha256": "636ae8d7b75810ebbe32e8087d0db3bf4519678843b753ffec249acfaa0d1ef5",
+    "release_sha256": "636ae8d7b75810ebbe32e8087d0db3bf4519678843b753ffec249acfaa0d1ef5"
+  },
+  {
+    "path": "training/reference/fold2_effective_indices.npz",
+    "source_sha256": "596cf09af6479e255c69fec4ef3acf3bf9a53b9a10a560e16bae999fda362ebd",
+    "release_sha256": "596cf09af6479e255c69fec4ef3acf3bf9a53b9a10a560e16bae999fda362ebd"
+  },
+  {
+    "path": "training/reference/fold3_effective_indices.npz",
+    "source_sha256": "c7eb220be841f474538bf1488a89394db0dad17905a56779d2e3336f6734db34",
+    "release_sha256": "c7eb220be841f474538bf1488a89394db0dad17905a56779d2e3336f6734db34"
+  },
+  {
+    "path": "training/reference/fold4_effective_indices.npz",
+    "source_sha256": "32130c68b88e306c6d301ea2b7cfbdf0f2f711e45582cc30fbbecde38638764a",
+    "release_sha256": "32130c68b88e306c6d301ea2b7cfbdf0f2f711e45582cc30fbbecde38638764a"
+  },
+  {
+    "path": "training/reference/input_manifest.json",
+    "source_sha256": "c56f515ff055bc28bbd3f57680a2a6a2f90b3079fd067c2c55d7162a128fa901",
+    "release_sha256": "c56f515ff055bc28bbd3f57680a2a6a2f90b3079fd067c2c55d7162a128fa901"
+  },
+  {
+    "path": "training/reference/interface_test_Joint_mean_std_fold0.csv",
+    "source_sha256": "43d72b217d4c5e6635f02ae621d4f1755790258c9882a83aa04fde32ad465794",
+    "release_sha256": "e79990fd91474e56eb23fbd42a4548bd747a269d9f1cd37afd4f01d1359789cd"
+  },
+  {
+    "path": "training/reference/previous_revision.json",
+    "source_sha256": "e77226a6d9edf495ec1a81d7836f6e983a78a20c73dcef4e2d4702b55397d3d9",
+    "release_sha256": "01caa65383a0c538ed5f746955539d57729a7d7cfa96d8b4ad8904a8dfb702c8"
+  },
+  {
+    "path": "training/reference/source_manifest.json",
+    "source_sha256": "5968bd3609db3c88e3688bb5405b85b1b2f20bbae8a0531ec124ed25ac233f10",
+    "release_sha256": "5968bd3609db3c88e3688bb5405b85b1b2f20bbae8a0531ec124ed25ac233f10"
+  },
+  {
+    "path": "training/reference/original_code/FAT/cvfold_utils.py",
+    "source_sha256": "c769135d16323f3eda9032bb15f80f1e7f18bb46f0f5e7f0b16874b564dab2da",
+    "release_sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  {
+    "path": "training/reference/original_code/FAT/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/reference/original_code/FAT/Evaluate_DL_RF.py",
+    "source_sha256": "f556fb04cb28e6961d278bcaef5271e89ba021542862d5eff93c6ab95bcea130",
+    "release_sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  {
+    "path": "training/reference/original_code/FAT/MaskedAveragePooling2D.py",
+    "source_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/reference/original_code/FAT/Model_build.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/FAT/Model_build_fairfix.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/FAT/model_heads_ffp.py",
+    "source_sha256": "5201e8e326a44014c902dd5b98a46a7f5db13f0a6dbbb10190a35e3cd649daec",
+    "release_sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  {
+    "path": "training/reference/original_code/FAT/Model_history.py",
+    "source_sha256": "181c1fbc056317d4cc4c429b91899e35c8fbb04e0eb51bdf981618c57ee1968c",
+    "release_sha256": "06f7124e4bffcbd663765f77f581f040e279e4aa05892c7a690edc38c61e74a5"
+  },
+  {
+    "path": "training/reference/original_code/FAT/myloss.py",
+    "source_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece",
+    "release_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  {
+    "path": "training/reference/original_code/FAT/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py",
+    "source_sha256": "eee72aae47075e31e09dc14a67f0d5510353afaae74d1effd4e92d377ec96a44",
+    "release_sha256": "4978deda0bab8bb31177e6cb274a872caf60566c915d789ed0401fd0648239d7"
+  },
+  {
+    "path": "training/reference/original_code/FAT/RadialConv2D.py",
+    "source_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/reference/original_code/FAT/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/flux_preprocess_lowmem.py",
+    "source_sha256": "2e3d2a4e599713a83c6838fd3e69d42ee9c2d6d1cbe93d0c519a7423453173e5",
+    "release_sha256": "b283a587a421027544373295f64c6c1677ef4913b0c710dadaf6ff7c1156161b"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/MaskedAveragePooling2D.py",
+    "source_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/Model_build_fairfix.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/Model_build_preagg_fairfix.py",
+    "source_sha256": "c49d45959befa42b121f907cdc66b8383deabf000749564daa93315104f81b29",
+    "release_sha256": "09cd570b2d17595064e9b51eccedad4b0fd7ab6040ef4961b3b6dbe13d754e32"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/model_heads_ffp.py",
+    "source_sha256": "5201e8e326a44014c902dd5b98a46a7f5db13f0a6dbbb10190a35e3cd649daec",
+    "release_sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/Model_history_preagg.py",
+    "source_sha256": "183eeecc1d065225386ac354de889a795bd9484d1a82893ae5717a9939f22b86",
+    "release_sha256": "2c0e725701c2f71830c574891cc639be653905b63f969b2b50c68af1fa2dbcf4"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/myloss.py",
+    "source_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece",
+    "release_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/preagg_ffp.py",
+    "source_sha256": "d13cb7b8f2a86c9b019d29456c0b569523bafb95dbfe35ec4eadeafc4b30242d",
+    "release_sha256": "911a4ca9b278e2cb80a464fe8e848ba4045c80577a853f67fd5466dbf0e56e14"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/Pro_FAT_HLS_carbon_CV5_preagg_strict.py",
+    "source_sha256": "0d448232ab7f8798e591d6c74b4ebf5adf924cd707ff669d4af96570070e3c05",
+    "release_sha256": "ef5ffc0bc9793cfdeb1c4f666061310528538f7c8fbedc0eab7711c5f0de467b"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/RadialConv2D.py",
+    "source_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/reference/original_code/Preaggregation_Transformer/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/reference/original_code/RF/cvfold_utils.py",
+    "source_sha256": "c769135d16323f3eda9032bb15f80f1e7f18bb46f0f5e7f0b16874b564dab2da",
+    "release_sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  {
+    "path": "training/reference/original_code/RF/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/reference/original_code/RF/Evaluate_DL_RF.py",
+    "source_sha256": "f556fb04cb28e6961d278bcaef5271e89ba021542862d5eff93c6ab95bcea130",
+    "release_sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  {
+    "path": "training/reference/original_code/RF/MaskedAveragePooling2D.py",
+    "source_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/reference/original_code/RF/Model_build.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/RF/Model_build_fairfix.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/RF/model_heads_ffp.py",
+    "source_sha256": "5201e8e326a44014c902dd5b98a46a7f5db13f0a6dbbb10190a35e3cd649daec",
+    "release_sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  {
+    "path": "training/reference/original_code/RF/Model_history.py",
+    "source_sha256": "181c1fbc056317d4cc4c429b91899e35c8fbb04e0eb51bdf981618c57ee1968c",
+    "release_sha256": "06f7124e4bffcbd663765f77f581f040e279e4aa05892c7a690edc38c61e74a5"
+  },
+  {
+    "path": "training/reference/original_code/RF/myloss.py",
+    "source_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece",
+    "release_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  {
+    "path": "training/reference/original_code/RF/Pro_RF_HLS_carbon_auto_merge3_stable_pred_layout_fixed_fairfix_remove_selected_sites.py",
+    "source_sha256": "bd3bc97e149f22767035293d45af295279bab1991e13c284ea6be5e63814cd55",
+    "release_sha256": "419d4c87bafb79be97b67f78b656cd6b3bbcd1c0f8053096919425194c48b104"
+  },
+  {
+    "path": "training/reference/original_code/RF/RadialConv2D.py",
+    "source_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/reference/original_code/RF/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/cvfold_utils.py",
+    "source_sha256": "c769135d16323f3eda9032bb15f80f1e7f18bb46f0f5e7f0b16874b564dab2da",
+    "release_sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/Evaluate_DL_RF.py",
+    "source_sha256": "f556fb04cb28e6961d278bcaef5271e89ba021542862d5eff93c6ab95bcea130",
+    "release_sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/MaskedAveragePooling2D.py",
+    "source_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/Model_build.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/Model_build_fairfix.py",
+    "source_sha256": "cf44f6836adf4c8b07719d7b6f755c22048182a88bf8ad099ed8317677b87a37",
+    "release_sha256": "bbd1e3c3cdfc0190bc366837d00bedd74342adf23b603c99f47c055d4e8fbb1c"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/model_heads_ffp.py",
+    "source_sha256": "5201e8e326a44014c902dd5b98a46a7f5db13f0a6dbbb10190a35e3cd649daec",
+    "release_sha256": "2452425e8f7674c5a1fcde98526462ea91fb72966d57bff3af02712bd845a250"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/Model_history.py",
+    "source_sha256": "181c1fbc056317d4cc4c429b91899e35c8fbb04e0eb51bdf981618c57ee1968c",
+    "release_sha256": "06f7124e4bffcbd663765f77f581f040e279e4aa05892c7a690edc38c61e74a5"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/myloss.py",
+    "source_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece",
+    "release_sha256": "cd3713257cb7dd04667dda4bebd5df0a5a016781b8af24fe63b7c14ada9e8ece"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py",
+    "source_sha256": "eee72aae47075e31e09dc14a67f0d5510353afaae74d1effd4e92d377ec96a44",
+    "release_sha256": "4978deda0bab8bb31177e6cb274a872caf60566c915d789ed0401fd0648239d7"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/RadialConv2D.py",
+    "source_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/reference/original_code/Uniform_Transformer/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/reference/split_kfold/index_test_fold0.npy",
+    "source_sha256": "effef3dae873fd8701352fe7373f49d1d83c34503acf57e69f0a080cc4dd4992",
+    "release_sha256": "effef3dae873fd8701352fe7373f49d1d83c34503acf57e69f0a080cc4dd4992"
+  },
+  {
+    "path": "training/reference/split_kfold/index_test_fold1.npy",
+    "source_sha256": "40bec2a618590c9cffd4093f19b11062af128ecd79d34bbdd4af31cbf147b471",
+    "release_sha256": "40bec2a618590c9cffd4093f19b11062af128ecd79d34bbdd4af31cbf147b471"
+  },
+  {
+    "path": "training/reference/split_kfold/index_test_fold2.npy",
+    "source_sha256": "af118815e4e22787ce1d6c879ec4e06e6bb5f07e12aefbf16447e08bcc4d2f8f",
+    "release_sha256": "af118815e4e22787ce1d6c879ec4e06e6bb5f07e12aefbf16447e08bcc4d2f8f"
+  },
+  {
+    "path": "training/reference/split_kfold/index_test_fold3.npy",
+    "source_sha256": "3d7a39ccb19e2024ea2cad1829eb4e4e5bbff0ca1de0d7819c0f69189874e58a",
+    "release_sha256": "3d7a39ccb19e2024ea2cad1829eb4e4e5bbff0ca1de0d7819c0f69189874e58a"
+  },
+  {
+    "path": "training/reference/split_kfold/index_test_fold4.npy",
+    "source_sha256": "02c29d4e7cd7f5f7896d0fe08a8bf04cc423515eca8a4e3de0ae5c4437cb4a7e",
+    "release_sha256": "02c29d4e7cd7f5f7896d0fe08a8bf04cc423515eca8a4e3de0ae5c4437cb4a7e"
+  },
+  {
+    "path": "training/reference/split_kfold/index_train_fold0.npy",
+    "source_sha256": "82afb0d8ea8c4ad0bb815eb85ae5bbc3c5ca4d9d656132fe88384fee0d8b941f",
+    "release_sha256": "82afb0d8ea8c4ad0bb815eb85ae5bbc3c5ca4d9d656132fe88384fee0d8b941f"
+  },
+  {
+    "path": "training/reference/split_kfold/index_train_fold1.npy",
+    "source_sha256": "13fb1d98728ce60c1afdfc01c9a90ba3196ef10d83f4c024c890a6fc46153c04",
+    "release_sha256": "13fb1d98728ce60c1afdfc01c9a90ba3196ef10d83f4c024c890a6fc46153c04"
+  },
+  {
+    "path": "training/reference/split_kfold/index_train_fold2.npy",
+    "source_sha256": "37a35f096332cdb26d03f67ff1d0b79c60d8e0c1d2fb4de6333e46bea97e1a64",
+    "release_sha256": "37a35f096332cdb26d03f67ff1d0b79c60d8e0c1d2fb4de6333e46bea97e1a64"
+  },
+  {
+    "path": "training/reference/split_kfold/index_train_fold3.npy",
+    "source_sha256": "0fe738ff35d6e188c8fdc586f27b73c07c1642c7ffb7ecd241890f25f04b2c45",
+    "release_sha256": "0fe738ff35d6e188c8fdc586f27b73c07c1642c7ffb7ecd241890f25f04b2c45"
+  },
+  {
+    "path": "training/reference/split_kfold/index_train_fold4.npy",
+    "source_sha256": "cad1d833fc559cde189cbfac30339d628f8be3e8000df53b4889f34f8f5d31ce",
+    "release_sha256": "cad1d833fc559cde189cbfac30339d628f8be3e8000df53b4889f34f8f5d31ce"
+  },
+  {
+    "path": "training/reference/split_kfold/site_to_fold.k5.seed42.csv",
+    "source_sha256": "5504c87038ed1df669e14d007fd8edde97059f27fae3283f32d201dba1024680",
+    "release_sha256": "da9027bdcab3bcb498d72f08dcbe4a9c25a302c89b5595e9ca2d8d1cc836eecb"
+  },
+  {
+    "path": "training/reference/split_kfold/test_sites_fold0.csv",
+    "source_sha256": "3190a3d55009c7ccb29147111b978d7529cebe603908c4edb8f2e7a3487956d3",
+    "release_sha256": "8fda7af4a7eb51bd87c4854bb5b29d020097522e7ea160d4cce4ea2b9f19f35b"
+  },
+  {
+    "path": "training/reference/split_kfold/test_sites_fold1.csv",
+    "source_sha256": "1cca22e27a9313d4aa28042f01577cff5319c23b94cea54607bd6920905ec3a0",
+    "release_sha256": "b14d0df8426ff08204dc53566523e41297a9ecb4c2d112a5a7a64c891be47a67"
+  },
+  {
+    "path": "training/reference/split_kfold/test_sites_fold2.csv",
+    "source_sha256": "a5474ed4d97add5d5b628a8c1defb08e76906ea82ea97ebe10d1fc91512c848f",
+    "release_sha256": "f9df9d045adcbc5d71c93b70153b2e8d9b1e301e3ad2a3de33f4f48c66e65319"
+  },
+  {
+    "path": "training/reference/split_kfold/test_sites_fold3.csv",
+    "source_sha256": "b0b02debd0bf13186ab9d152d4941ae52d79438e35471e1e2be51cd384772972",
+    "release_sha256": "4b47abb90b105ac20360c9f38873b9c827438b1753f20c8d7725acd807bf5d1b"
+  },
+  {
+    "path": "training/reference/split_kfold/test_sites_fold4.csv",
+    "source_sha256": "4855164d4dfae1037afb45c62f3812a62a7ab2901cb1080a6451a1356301e24a",
+    "release_sha256": "b75bc692543f16c31710347f7b0ed35ed51c9bc57bc0351abb81253b45dee6fc"
+  },
+  {
+    "path": "training/reference/split_kfold/train_sites_fold0.csv",
+    "source_sha256": "a8cae39d71650e82460ae31a5434290f61405dace637ccbc7f0ced0282e5b824",
+    "release_sha256": "5f4e7e8e995e50baecedf7de941231a06a4683daea5495759f1ded9d1d37cb5b"
+  },
+  {
+    "path": "training/reference/split_kfold/train_sites_fold1.csv",
+    "source_sha256": "38547ac6d99a6ddc231a64233134e13ac88ba9fb6743c6c8e8fdc97595321ef6",
+    "release_sha256": "a600ab237ce344ec7bd788c34a8d904a521f78e446a5edce93fc15d057209a76"
+  },
+  {
+    "path": "training/reference/split_kfold/train_sites_fold2.csv",
+    "source_sha256": "d54634b0ccf12c572917c72ec98421d569c03000362c51b450fcf6c410626f2e",
+    "release_sha256": "25c0d046e275ef2e364a981d5dc820d3e6d2c977e7b4441d0ca9b421f0863b3b"
+  },
+  {
+    "path": "training/reference/split_kfold/train_sites_fold3.csv",
+    "source_sha256": "825cde6ff0ed0280ceda056d0656aada8d4faff5370ccf4854df844f30c003f7",
+    "release_sha256": "78426542aeba08df4048125c6449ca4871051fde57b4559d40f6f9afc5bb7fa1"
+  },
+  {
+    "path": "training/reference/split_kfold/train_sites_fold4.csv",
+    "source_sha256": "3c8ce19a010cf319bd10c3f3bb0101a53ca8638309159f17c59fa3707e033154",
+    "release_sha256": "f5e0a47311a1dc50920124d90c6fcf540d1ea0ce44d940a6a00ff81c6ffc62b5"
+  },
+  {
+    "path": "training/RF/cvfold_utils.py",
+    "source_sha256": "c769135d16323f3eda9032bb15f80f1e7f18bb46f0f5e7f0b16874b564dab2da",
+    "release_sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  {
+    "path": "training/RF/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/RF/Evaluate_DL_RF.py",
+    "source_sha256": "f556fb04cb28e6961d278bcaef5271e89ba021542862d5eff93c6ab95bcea130",
+    "release_sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  {
+    "path": "training/RF/MaskedAveragePooling2D.py",
+    "source_sha256": "7c3e93c4401457a2764ab74057b7dfd99d02e283e592a346fd9554d8f7ca9d55",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/RF/Model_build.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/RF/Model_build_fairfix.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/RF/model_heads_ffp.py",
+    "source_sha256": "14b7528b691893c63afdf21692e7c0422d8f5958d2ded6c620d2ac1566cb60b9",
+    "release_sha256": "7ec1e6893ba4a79a688b717713e779ecc813caafcc2d33d9fdd52df098b58182"
+  },
+  {
+    "path": "training/RF/Model_history.py",
+    "source_sha256": "26dc3d78c752f77e42bc1a545abb95e9eccaa0ed95f1fe958dadc43fea1d1108",
+    "release_sha256": "6028ae1c6ae0481cd32da32ddd2230e60d827d59f5fa08ecda4b7501bafd687b"
+  },
+  {
+    "path": "training/RF/myloss.py",
+    "source_sha256": "b22cc39af49390308782c4480dc008e2b9224150f050b6b491571b67a62da661",
+    "release_sha256": "25ab594433f9b3e30a7ac7119737c92259ff0aec3defb40bab0942c3b2e3d09d"
+  },
+  {
+    "path": "training/RF/Pro_RF_HLS_carbon_auto_merge3_stable_pred_layout_fixed_fairfix_remove_selected_sites.py",
+    "source_sha256": "03358e29a703e7d82ac14a9f2067ce714d7b8ea2f3cf0d43d908ab017580a713",
+    "release_sha256": "4d243090ee14cdd0cfa52a8d921ecc6233bbf85ff2b11cbf0601392763c76509"
+  },
+  {
+    "path": "training/RF/RadialConv2D.py",
+    "source_sha256": "3876c2a1193756a83638ae9d9867824f966ad8838259fae6d8c324dc93a4b9d9",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/RF/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/shared/MaskedAveragePooling2D.py",
+    "source_sha256": "7c3e93c4401457a2764ab74057b7dfd99d02e283e592a346fd9554d8f7ca9d55",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/shared/Model_build.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/shared/Model_build_fairfix.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/shared/model_heads_ffp.py",
+    "source_sha256": "14b7528b691893c63afdf21692e7c0422d8f5958d2ded6c620d2ac1566cb60b9",
+    "release_sha256": "7ec1e6893ba4a79a688b717713e779ecc813caafcc2d33d9fdd52df098b58182"
+  },
+  {
+    "path": "training/shared/Model_history.py",
+    "source_sha256": "26dc3d78c752f77e42bc1a545abb95e9eccaa0ed95f1fe958dadc43fea1d1108",
+    "release_sha256": "6028ae1c6ae0481cd32da32ddd2230e60d827d59f5fa08ecda4b7501bafd687b"
+  },
+  {
+    "path": "training/shared/myloss.py",
+    "source_sha256": "b22cc39af49390308782c4480dc008e2b9224150f050b6b491571b67a62da661",
+    "release_sha256": "25ab594433f9b3e30a7ac7119737c92259ff0aec3defb40bab0942c3b2e3d09d"
+  },
+  {
+    "path": "training/shared/RadialConv2D.py",
+    "source_sha256": "3876c2a1193756a83638ae9d9867824f966ad8838259fae6d8c324dc93a4b9d9",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/shared/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "training/tools/make_code_lock.py",
+    "source_sha256": "a1dbb58dbec940c594a229a7af6b07ce030907de09713be5146063d79804468e",
+    "release_sha256": "62c0518fef22f9872a6a8e9968e60a04c8790acfa7f886dd412024a197bdf1b3"
+  },
+  {
+    "path": "training/Uniform_Transformer/cvfold_utils.py",
+    "source_sha256": "c769135d16323f3eda9032bb15f80f1e7f18bb46f0f5e7f0b16874b564dab2da",
+    "release_sha256": "e6b8558dcf59e7e6f65f548ab02faa9e589d671212882436ea5980b6664f20f7"
+  },
+  {
+    "path": "training/Uniform_Transformer/Evaluate_DL.py",
+    "source_sha256": "56c95a22f864c0e23e798bfaf0bc8083ab5cea8f6d5a867e75ffe5c7452d759e",
+    "release_sha256": "6cf01cc01a27e4dade947cb5bed75623bae43d4051ed75734d37ff5f14ae2676"
+  },
+  {
+    "path": "training/Uniform_Transformer/Evaluate_DL_RF.py",
+    "source_sha256": "f556fb04cb28e6961d278bcaef5271e89ba021542862d5eff93c6ab95bcea130",
+    "release_sha256": "9e19d7dfa7f4cea81e5f1735d8ad7f95c50a82073e2bd95e48d25b3c05bdce1f"
+  },
+  {
+    "path": "training/Uniform_Transformer/height_uniform.py",
+    "source_sha256": "eb0bf852eb6e98d3b8028d50ef2310279c5ac3440aa186802136fac3dbe73f9e",
+    "release_sha256": "61f9bcec45f6edc0f8afc1c7a281960d3e3e85f8cef68e6a739f3925460a818f"
+  },
+  {
+    "path": "training/Uniform_Transformer/MaskedAveragePooling2D.py",
+    "source_sha256": "7c3e93c4401457a2764ab74057b7dfd99d02e283e592a346fd9554d8f7ca9d55",
+    "release_sha256": "de2aa1887dc07aa9f1445207f5036078bbcd4ce8aa2ed49fc28fd632e6bd50ab"
+  },
+  {
+    "path": "training/Uniform_Transformer/Model_build.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/Uniform_Transformer/Model_build_fairfix.py",
+    "source_sha256": "516a1c98955d24cd7bfeffcf629aceb63887051d122688414601c22defccff22",
+    "release_sha256": "98afa37d07a3a2555d75caf6324cc2ba1ddc2a67d30d8c91db1a601e7ab76748"
+  },
+  {
+    "path": "training/Uniform_Transformer/model_heads_ffp.py",
+    "source_sha256": "795a8cc81005dfd3464222ea322ff00d869146a4e9aff0682105234085586489",
+    "release_sha256": "8433deb5ea9c061dcc13d2b0d029854c162c85c4eaa0859544f1758b7657581d"
+  },
+  {
+    "path": "training/Uniform_Transformer/Model_history.py",
+    "source_sha256": "26dc3d78c752f77e42bc1a545abb95e9eccaa0ed95f1fe958dadc43fea1d1108",
+    "release_sha256": "6028ae1c6ae0481cd32da32ddd2230e60d827d59f5fa08ecda4b7501bafd687b"
+  },
+  {
+    "path": "training/Uniform_Transformer/myloss.py",
+    "source_sha256": "b22cc39af49390308782c4480dc008e2b9224150f050b6b491571b67a62da661",
+    "release_sha256": "25ab594433f9b3e30a7ac7119737c92259ff0aec3defb40bab0942c3b2e3d09d"
+  },
+  {
+    "path": "training/Uniform_Transformer/Pro_FAT_HLS_carbon_CV5_ablation_fixed_fairfix_remove_selected_sites.py",
+    "source_sha256": "def14762252bc14184aea8a7e1657ca73ac284f45eab068934fbe1b949dbd7cf",
+    "release_sha256": "73857461aa0066e724bcfffb5e8b923dedd4764155b33f0e4965a7cecddf8f39"
+  },
+  {
+    "path": "training/Uniform_Transformer/RadialConv2D.py",
+    "source_sha256": "3876c2a1193756a83638ae9d9867824f966ad8838259fae6d8c324dc93a4b9d9",
+    "release_sha256": "e6e0a705c1c704e305bbe5efae576bb822ba0bddce8a0dde2c323059e0c07a4f"
+  },
+  {
+    "path": "training/Uniform_Transformer/train_test.py",
+    "source_sha256": "1cd0c1384688237723290eae0e975c3a29949011f16df01313ff10bb04606e2a",
+    "release_sha256": "c9b79816f6f42c5aef39a839f1524d334451a3d7f68f22baf09498e7c4dde6af"
+  },
+  {
+    "path": "analysis/compare_old_vs_V6FAT.py",
+    "source_sha256": "cc87a8b66893cf5cdaa3cb3818f206e1bf14f40ac6ee7b82a0a54461cec69282",
+    "release_sha256": "28fc5757beb7ee4aac3ebadd3edc342a6c0cbc790e554bf9062421572ed32061"
+  },
+  {
+    "path": "analysis/4.1_accuracy_assessment/code/fig_4_1_main_rmse_bars.py",
+    "source_sha256": "9717209efad49453edfba08bb03964710a04b4db56c5c32d0009f8285c44d968",
+    "release_sha256": "f1b9bf24455366a5fa184b37a49d3c704e4a6dc58c959c529d25e629aa610b05"
+  },
+  {
+    "path": "analysis/4.1_accuracy_assessment/code/table_S4_fourmodel.py",
+    "source_sha256": "22d7bfd8f494a6650646c08763762abcc2aa7e03a361b0963c2ab5f58ad0508e",
+    "release_sha256": "826dfd542ec8353761cf8d81141e1d44a7f22e89fd069a19e6a6e41974517801"
+  },
+  {
+    "path": "analysis/4.2_estimation_robustness/code/fig_4_2_spatial.py",
+    "source_sha256": "eea5dc9e02086f6007158a527eb6bddc50236ba527be09a2d96b4bbafe254c89",
+    "release_sha256": "93b8bf2294648cbeaeff9222b9aad3b43deb7c874c54e167c0d450c7a0ae619a"
+  },
+  {
+    "path": "analysis/4.2_estimation_robustness/code/fig_4_2_temporal.py",
+    "source_sha256": "bc59036514af06676910fbc02fd6b8a42c5ca495b213ee05be86d9d848b7d017",
+    "release_sha256": "de3cb752b162a6ed8cbb5d6280e3bfcbe1bcf7b08818baea24278a44e001332c"
+  },
+  {
+    "path": "analysis/4.2_estimation_robustness/code/table_threshold_sensitivity.py",
+    "source_sha256": "111555b25bca0298f8ad286ebc8c95fd573a66c5149c043d1891174f30882d19",
+    "release_sha256": "749d5ea49f4750509a9c6622368f547406ebb5a9c38b788439399b4f941e4e7c"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/factor_vs_model_rmse.py",
+    "source_sha256": "ed1f46a6fa52c178794b2fcbed68a0c90c1d5cd588155895ed397ec8c30e4824",
+    "release_sha256": "5615ebd9fdbdf914a5eb213cde5e9caeb7992f1f3b2830a2dfca9592169a3216"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/fig_4_3_correlation_bins.py",
+    "source_sha256": "ff4f49f1f77b432314dad05c4bc76f2b3eeb21f62bfa706b8c3c61fdf6e824bb",
+    "release_sha256": "ff4f49f1f77b432314dad05c4bc76f2b3eeb21f62bfa706b8c3c61fdf6e824bb"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/fig_4_3_supp_bins.py",
+    "source_sha256": "35c3763eccd21bc26a9f329d9225aa9d49b591ba5b899a9b6646652ed8a9c9b6",
+    "release_sha256": "35c3763eccd21bc26a9f329d9225aa9d49b591ba5b899a9b6646652ed8a9c9b6"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/fig_6_main.py",
+    "source_sha256": "7b0ea6a28d2bcf13ef397bf30b6e639c7cd0479a06cc316808e55fe68aff2bef",
+    "release_sha256": "48d771a1e33d276ccb92b0df83ca832cedb52277b27266b45ddc548c1fadd275"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/gain_correlates.py",
+    "source_sha256": "17cfc34a3756a967eba2745e2b64880534cedc52178ad2908ee229bbeca94078",
+    "release_sha256": "18192235bd90cdd67112ac3f1ad8d64f6f661c0a104976ebb7ede3432e9e5712"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/heterogeneity_effect.py",
+    "source_sha256": "a617110b170c64fbe486e1b0a12e395c64d39e2528ce6005eedc0d4b9e80590c",
+    "release_sha256": "844ba1d460d16b1e7ce7ac805fe250a5d1459d302b0ef546ea771eb74d188fda"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/weight_difference.py",
+    "source_sha256": "37b14f73b6e81e4587ff08a115e959a872808452c12c4ec7b5adbd42c4f4b4fc",
+    "release_sha256": "96b2911a27e6f8a7e62f668e4b61770ccc40f444b151e745f6b1a1b9978167c5"
+  },
+  {
+    "path": "analysis/4.3_gain_correlates/code/weight_difference_vs_gain.py",
+    "source_sha256": "25af31e1d4884483d0a613c38bc4326cf7d90328b838590bbe6caea2b941b186",
+    "release_sha256": "ae2699dc1ffcd2ace1d8b6c3c64b5bc78489da391637912ce334eb054b48e01a"
+  },
+  {
+    "path": "analysis/4.3_rf_importance/code/06_rf_importance.py",
+    "source_sha256": "9a05ed40b4728386bc8b968cf88353d8f4272fac23ffa1f024bb42c2977dce5d",
+    "release_sha256": "a82da9d655dac62e0a305fd132f7f29339d4bb7797be6db8adda3c192b513abd"
+  },
+  {
+    "path": "analysis/4.3_rf_importance/code/07_rf_figures.py",
+    "source_sha256": "845841f868cb3a6cfd7f03b508608a2c1f2b3eac9345dcc8acf883ba731c4d5a",
+    "release_sha256": "ba5f9093bc4e2b07956c6935fec8abbc7d233346050d5e6c669ff388103d4a3b"
+  },
+  {
+    "path": "analysis/4.3_rf_importance/code/build_site_day_table.py",
+    "source_sha256": "1696a16cab65aceb90697d857d51eee5c604899ff829191c10809301f257a0c1",
+    "release_sha256": "5b695ce3fbc77c0bf23ad8bb74a060dc4c85edf83e07c99b82e11f59b5538255"
+  },
+  {
+    "path": "analysis/4.4_case_study/code/fig_4_4_case_study.py",
+    "source_sha256": "cbabeee88262f5020cc51aff5572a8d8270180b516bdebe768ae1d012556de7a",
+    "release_sha256": "3c4cd863dc53dae17809ea59035922dd080fa0b7e662ddd0824fc25e385aa8f2"
+  },
+  {
+    "path": "analysis/4.4_case_study/code/run_fat_pixel_prediction.py",
+    "source_sha256": "6f39f8576795e01fa1344160425378d59a3cd4b2714ea6411f17f6533b2096a3",
+    "release_sha256": "5ed10cd1a049029e44e9f4504e1f4979b4c7eb9b31282ef65d313c42211063ae"
+  },
+  {
+    "path": "analysis/4.4_case_study/code/select_cases.py",
+    "source_sha256": "84108279c59e163b09982261142fea30640c0c1f47f4b5fdfd24838755065125",
+    "release_sha256": "ac61a142ab0040f412f6a93487f41eef2f8dad0f4be085fd6951f42a22e14cf2"
+  },
+  {
+    "path": "analysis/analysis_design/schematic_gain_analysis.py",
+    "source_sha256": "a3c820124d20ea5bbc9a4015881c5e6f105a7d60556577de76c62ef4b5ac5d24",
+    "release_sha256": "0ed2d7091cda13c27a7756f0d17e77c543e3ae1513ddb82d11bbab9943182796"
+  },
+  {
+    "path": "analysis/common/figure_io.py",
+    "source_sha256": "ff6f54d025b3f2fb1d22072d48313533823ed250d3067ed497d1ee87dd5aadeb",
+    "release_sha256": "99297e237f476799550394853f9c3afa9299ea391767909678a39104b3c34a46"
+  },
+  {
+    "path": "analysis/common/height_uniform.py",
+    "source_sha256": "eb0bf852eb6e98d3b8028d50ef2310279c5ac3440aa186802136fac3dbe73f9e",
+    "release_sha256": "61f9bcec45f6edc0f8afc1c7a281960d3e3e85f8cef68e6a739f3925460a818f"
+  }
+]

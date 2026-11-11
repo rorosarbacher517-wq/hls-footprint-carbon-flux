@@ -1,0 +1,8 @@
+{
+  "syntax": "passed",
+  "training_code_consistency": "passed",
+  "training_plan": "passed",
+  "synthetic_shapes_weights_balance": "passed",
+  "tensorflow_batching_test": "not run: TensorFlow missing in packaging environment",
+  "full_training_and_real_data_figures": "not run"
+}

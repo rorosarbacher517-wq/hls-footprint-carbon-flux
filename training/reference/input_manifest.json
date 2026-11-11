@@ -1,0 +1,14 @@
+{
+  "HLS_matched_v11_remove_selected_sites.npy": {
+    "bytes": 6017800128,
+    "sha256": "f6f3e5248dc3b5e687222c9a5f6fc3863e913078591545075246df01e5c8bbb5"
+  },
+  "FFP_hls_aligned_v11_50x50_timefilled_remove_selected_sites.npy": {
+    "bytes": 14442720128,
+    "sha256": "c7a7b82fffb7701bd4ccf4946ab9a376828ef4f60a82d9ed8df478ed36219896"
+  },
+  "merged_flux_era5_ffp_array_v11_remove_selected_sites.npy": {
+    "bytes": 1328872377,
+    "sha256": "77c88aa942554c904a3297ba1309d5c4434ad4c75b1e3a5e56318f46bde77d3e"
+  }
+}

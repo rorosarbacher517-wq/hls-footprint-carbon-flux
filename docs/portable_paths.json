@@ -1,0 +1,12 @@
+[
+  "./data/external/HLS_ERA5_FLUX_FFP_CV5_FINAL",
+  "./data/external/HLS_FLUX_ERA5_matched_filtering",
+  "./data/external/HLS_METE_CARBON_FFP",
+  "./data/external/results_v6_tf215",
+  "./data/external/site_day_delta_rmse_with_drivers.csv",
+  "./data/external/vif_after_representative_filter.csv",
+  "./data/external/vif_all_variables.csv",
+  "./data/input_data",
+  "./data/input_data/site_yearly_landcover_tracked.csv",
+  "./training"
+]

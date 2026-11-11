@@ -1,0 +1,58 @@
+{
+  "version": "strict_v6_tf215_dualgpu_fourmodel",
+  "input_root": "",
+  "dl": {
+    "epochs": 30,
+    "learning_rate": 0.0001,
+    "batch_size": 16,
+    "weight_decay": 0.1,
+    "units": 64,
+    "embedding_layers": 2,
+    "transformer_layers": 4,
+    "heads": 4,
+    "dropout": 0.1,
+    "validation_split": 0.04
+  },
+  "rf": {
+    "n_estimators": 200,
+    "max_depth": 10,
+    "min_samples_leaf": 10,
+    "random_state_rule": "42+fold+run_id"
+  },
+  "seed_rule": "Python/NumPy/TensorFlow DL:42+fold; RF:42+fold+run_id; site split:42",
+  "policy": "One-environment four-model comparison (TF2.15.1, Keras2, native AdamW, 2 GPUs MirroredStrategy, synchronized BN, float32). FAT/Uniform/Preaggregation share network, loss, optimizer, batching and evaluation; FAT-vs-Uniform is the single-factor aggregation-rule ablation, FAT-vs-Preaggregation a method comparison, RF a conventional preaggregated baseline.",
+  "sensor_encoding": "raw_0_1",
+  "footprint_normalization": "max_scaled_exact_sum_no_epsilon",
+  "loss_boundary": "original physical loss; finite zero subgradient at zero residual",
+  "normalization_fit_population": "outer training fold, including the 4% monitoring-validation subset; no outer test data",
+  "uniform_geometry": {
+    "pixel_m": 30,
+    "half_side_factor": 100,
+    "height": "per-half-hour positive finite zm=MH-d; same-timestep zm_smooth fallback only",
+    "time_resolution_minutes": 30,
+    "timesteps": 48,
+    "snap": "nearest full pixel edge; half ties outward",
+    "domain": "intersection with original 50x50 image",
+    "weight_shape": "[N,48,H,W]",
+    "no_record_median": true
+  },
+  "comparison_contract": {
+    "controlled_ablations": [
+      "FAT_vs_Uniform_Transformer",
+      "FAT_vs_Preaggregation_Transformer"
+    ],
+    "conventional_baseline": "RF",
+    "rf_not_one_factor_ablation": true
+  },
+  "optimizer": "native tf.optimizers.AdamW (Keras 2.15): variable -= lr*weight_decay*variable; beta1=0.9, beta2=0.999, eps=1e-7",
+  "distribution": {
+    "replicas": 2,
+    "global_batch": 16,
+    "per_replica_full_batch": 8,
+    "synchronized_batchnorm": true,
+    "precision": "float32",
+    "prediction_batch": 16,
+    "small_last_batch_rule": "if last batch < replicas records, last 16+r records are split into two batches (9+8); no record dropped"
+  },
+  "smoke_policy": "run.py --smoke --epochs N writes only to a results root whose name contains \"smoke\"; never certified/merged with production"
+}
